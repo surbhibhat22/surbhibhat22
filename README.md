@@ -1,6 +1,6 @@
-<h1>Hi, I'm Surbhi! <br/><a href="www.linkedin.com/in/surbhi-bhat">CyberSecurity Analyst</a>,<a href="https://www.youtube.com/@SurbhiBhat7">YouTuber</a></h1>
+<h1>Hi, I'm Surbhi! Passionate <a href="www.linkedin.com/in/surbhi-bhat">CyberSecurity Analyst</a>,<a href="https://www.youtube.com/@SurbhiBhat7">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻My Projects</h2>
 
 - <b>Azure/Cloud SOC Project</b>
   - [Creating a live SOC/Honeyneti in Azure](https://github.com/surbhibhat22/Azure-SOC-Honeynet)
