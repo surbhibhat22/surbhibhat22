@@ -4,8 +4,10 @@
 
 - <b>Azure/Cloud SOC Project</b>
   - [Creating a live SOC/Honeyneti in Azure](https://github.com/surbhibhat22/Azure-SOC-Honeynet)
+- <b>Web vulnerability Home lab</b>
+  - [Intentional Vulnerable Apllication Using Flask,Python,SQL](https://github.com/surbhibhat22/Web_Vulnerable_HomeLab)
 - <b> Kali Based Project</b>
-  - [Reverse shell execution using Kali Linux ](https://medium.com/@bhatsurbhi22/mastering-reverse-shells-using-meterpreter-and-metasploit-on-kali-linux-9954caf9d28e)
+  - [Reverse shell execution using Kali Linux ](https://github.com/surbhibhat22/reverse_shell)
 - <b>Python based Project</b>
   - [Email sender script with security Logging](https://github.com/surbhibhat22/email-sender-script)
 - <b>XSS Reflected & stored</b>
